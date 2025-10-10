@@ -1,0 +1,72 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "convert",
+            "request": "launch",
+            "mainClass": "convert",
+            "projectName": "initialisation_e3cb74a2"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "initialisation_e3cb74a2"
+        },
+        {
+            "type": "java",
+            "name": "in_decrementation",
+            "request": "launch",
+            "mainClass": "in_decrementation",
+            "projectName": "initialisation_e3cb74a2"
+        },
+        {
+            "type": "java",
+            "name": "mois",
+            "request": "launch",
+            "mainClass": "mois",
+            "projectName": "initialisation_e3cb74a2"
+        },
+        {
+            "type": "java",
+            "name": "operation",
+            "request": "launch",
+            "mainClass": "operation",
+            "projectName": "initialisation_e3cb74a2"
+        },
+        {
+            "type": "java",
+            "name": "operationLogique",
+            "request": "launch",
+            "mainClass": "operationLogique",
+            "projectName": "initialisation_e3cb74a2"
+        },
+        {
+            "type": "java",
+            "name": "permuter",
+            "request": "launch",
+            "mainClass": "permuter",
+            "projectName": "initialisation_e3cb74a2"
+        },
+        {
+            "type": "java",
+            "name": "tp1",
+            "request": "launch",
+            "mainClass": "tp1",
+            "projectName": "initialisation_e3cb74a2"
+        }
+    ]
+}
