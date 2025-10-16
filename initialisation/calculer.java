@@ -10,5 +10,6 @@ public class calculer{
         System.out.println("donner le nombre d'annee");
         enc=Sc.nextDouble();
         s=n*th;
+        System.out.println(s);
     }
 }
