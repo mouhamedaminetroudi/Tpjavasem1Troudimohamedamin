@@ -51,7 +51,12 @@ System.out.println("veillez saisir une phrase");
 StringBuffer ch=new StringBuffer(sc.nextLine());
 
 System.out.println("le contenu de string bufferest :"+ch);// retourner don ch le contenu de ch2
-sc.close(); 
+StringBuffer c=new StringBuffer("sssss");
+c=c.append("amin");
+System.out.println(c);
+
+
+
 
 
 
